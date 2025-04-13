@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+# hello-react19
+React19 + TypeScript + Vite project.
+
+## Install
+
+```bash
+npm create vite@latest
+```
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
