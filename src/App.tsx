@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import foxModel from './assets/Fox.glb'
 import "@google/model-viewer";
 import './App.css'
